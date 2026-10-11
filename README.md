@@ -97,9 +97,7 @@ public class Q3 {
 # 4
 
 package labsheet3;
-
 import java.util.Scanner;
-
 class MaximumArray {
     int[] arr;
     int n;
@@ -138,7 +136,6 @@ public class Q4 {
     }
 }
 # 5
-
 package labsheet3;
 import java.util.Scanner;
 class EvenOddArray {
